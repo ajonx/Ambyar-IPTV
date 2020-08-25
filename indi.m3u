@@ -2,7 +2,7 @@
  
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",80 Ruang Trampil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nQ1cwg/logo-ruangtrampil-big.png" group-title="Local Channel",80 Ruang Trampil
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",85 USee Sports
 rtp://@239.1.2.42:8194
@@ -56,7 +56,7 @@ rtp://@239.1.1.69:8388
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",120 Daai TV
 rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",121 ATV Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4t0X5PL/logo-atv-big.png" group-title="Local Channel",121 ATV Trial
 rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",122 Bali TV
 rtp://@239.1.1.72:8406
@@ -66,7 +66,7 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",125 MYTV
 rtp://@239.1.1.162:8946
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",126 R Channel Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypQ6Zdw/logo-rchanneljawabarat-big.png" group-title="Local Channel",126 R Channel Trial
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
 rtp://@239.1.1.39:8208
@@ -150,12 +150,12 @@ rtp://@239.1.1.173:9012
 rtp://@239.1.1.227:9336
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_allegro_big1.png" group-title="Music",454 T Music
 #rtp://@239.1.1.163:8952
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Music",459 i Konser
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4SsT1Y/logo-ikonser-big.png" group-title="Music",459 i Konser
 rtp://@239.1.2.222:9256
  
 ==
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",500 HGTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C25S6Xf/HGTV.png" group-title="Gen Entertainment",500 HGTV
 rtp://@239.1.1.210:9506
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",501 Blue Ant Extreme
 rtp://@239.1.1.134:8778
@@ -175,7 +175,7 @@ rtp://@239.1.2.9:8028
 rtp://@239.1.1.137:8796
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" group-title="Gen Entertainment",510 TV5Monde
 rtp://@239.1.1.55:8300
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",511 Blue Ant Entertaiment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBy36Ts/Blue-ant-entertainment.png" group-title="Gen Entertainment",511 Blue Ant Entertaiment
 rtp://@239.1.1.141:8820
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",512 Fox
 rtp://@239.1.1.43:8232
@@ -197,7 +197,7 @@ rtp://@239.1.1.75:8424
 rtp://@239.1.1.153:8892
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",523 K+
 rtp://@239.1.1.242:9426
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",524 Formosa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqvY5xR/logo-formosa-big.png" group-title="Gen Entertainment",524 Formosa
 rtp://@239.1.2.198:9386
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",526 CTI Asia
 rtp://@239.1.2.200:9168
@@ -221,7 +221,7 @@ rtp://@239.1.1.172:9006
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",540 ETTV Asia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJ0fTSC/logo-ettvasia-big.png" group-title="Gen Entertainment",540 ETTV Asia
 rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",541 NewTV
 rtp://@239.1.2.40:8206
@@ -320,11 +320,11 @@ rtp://@239.1.1.191:9120
 rtp://@239.1.1.236:9390
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",808 DW
 rtp://@239.1.1.187:9096
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",809 TVBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgxGJpT/logo-tvbsnews-big.png" group-title="Gen Entertainment",809 TVBS
 rtp://@239.1.2.118:9410
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",810 TRT World Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7wf4HC/logo-trtworld-big.png" group-title="Gen Entertainment",810 TRT World Trial
 rtp://@239.1.2.84:8296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",811 CNBC Indonesia Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/593h2j3/logo-cnbc-big.png" group-title="Gen Entertainment",811 CNBC Indonesia Trial
 rtp://@239.1.2.92:9490
  
 ==
@@ -390,7 +390,7 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.2.4:7998
 #EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" group-title="HD Channel",925 Cinema World HD
 rtp://@239.1.2.80:8578
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",927 Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Zhc2g1/logo-discovery-hd-big.png" group-title="HD Channel",927 Discovery Channel HD
 rtp://@239.1.2.78:7984
 #EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="HD Channel",930 Disney Channel HD
 rtp://@239.1.1.201:9180
@@ -442,15 +442,15 @@ rtp://@239.1.1.13:8052
 rtp://@239.1.1.244:9434
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="HD Channel",960 AXN HD
 rtp://@239.1.1.245:9436
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",961 Blue Ant Extreme HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDqvWs2/Blue-ant-Extreme.png" group-title="HD Channel",961 Blue Ant Extreme HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="HD Channel",962 Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",963 HGTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C25S6Xf/HGTV.png" group-title="HD Channel",963 HGTV HD
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="HD Channel",964 Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",967 BLUE ANT ENT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBy36Ts/Blue-ant-entertainment.png" group-title="HD Channel",967 BLUE ANT ENT HD
 rtp://@239.1.2.76:9310
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="HD Channel",968 Star Chinese Movies HD
 rtp://@239.1.2.231:9336
@@ -546,7 +546,7 @@ rtp://@239.1.1.207:9216
 rtp://@239.1.1.23:8112
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",924 CGTN Documentary HD
 rtp://@239.1.2.4:7998
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Knowledge",927 Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Zhc2g1/logo-discovery-hd-big.png",927 Discovery Channel HD
 rtp://@239.1.2.78:7984
  
 #EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="Kids",930 Disney Channel HD
@@ -558,7 +558,7 @@ rtp://@239.1.1.234:9222
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",948 MTV Live HD
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Music",949 i Konser HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4SsT1Y/logo-ikonser-big.png" group-title="Music",949 i Konser HD
 rtp://@239.1.2.221:9250
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",950 FOXlife HD
@@ -583,15 +583,15 @@ rtp://@239.1.1.13:8052
 rtp://@239.1.1.244:9434
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Gen Entertainment",960 AXN HD
 rtp://@239.1.1.245:9436
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",961 Blue Ant Extreme HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDqvWs2/Blue-ant-Extreme.png" group-title="Gen Entertainment",961 Blue Ant Extreme HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Gen Entertainment",962 Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",963 HGTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C25S6Xf/HGTV.png" group-title="Gen Entertainment",963 HGTV HD
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="Gen Entertainment",964 Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",967 BLUE ANT ENT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBy36Ts/Blue-ant-entertainment.png" group-title="Gen Entertainment",967 BLUE ANT ENT HD
 rtp://@239.1.2.76:9310
  
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",968 Star Chinese Movies HD
