@@ -74,7 +74,7 @@ rtp://@239.1.1.39:8208
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",131 JITV
 rtp://@239.1.1.238:9400
-#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",137 Jowo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKQnQj4/Channel-Jowo.png" group-title="Local Channel",137 Jowo
 rtp://@239.1.2.6:8000
  
 ==
@@ -215,15 +215,15 @@ rtp://@239.1.1.143:8832"
 rtp://@239.1.1.86:8154
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Gen Entertainment",537 Sony One
 rtp://@239.1.1.172:9006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",538 Zhejiang International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpjdsfJ/Zhejiang-Int.png" group-title="Gen Entertainment",538 Zhejiang International
 rtp://@239.1.1.154:8898
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",539 Shenzen International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvykRyS/Shenzen-Int.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJ0fTSC/logo-ettvasia-big.png" group-title="Gen Entertainment",540 ETTV Asia
 rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",541 NewTV
 rtp://@239.1.2.40:8206
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",542 Chinese Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5cw4XW/Chinese-Drama.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
  
 ==
@@ -376,7 +376,7 @@ rtp://@239.1.1.180:9054
 rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",915 METRO TV HD
 rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="HD Channel",917 Jowo HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKQnQj4/Channel-Jowo.png" group-title="HD Channel",917 Jowo HD
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="HD Channel",920 National Geographic HD
 rtp://239.1.1.243:9432
