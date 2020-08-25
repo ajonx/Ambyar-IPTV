@@ -93,7 +93,7 @@ rtp://@239.1.1.57:8316
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",207 Discovery
 rtp://@239.1.2.30:8154
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Knowledge",208 Lingua Trial
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_big.png" group-title="Knowledge",208 Lingua Trial
 rtp://@239.1.2.90:9500
  
 ==
@@ -199,7 +199,7 @@ rtp://@239.1.1.153:8892
 rtp://@239.1.1.242:9426
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqvY5xR/logo-formosa-big.png" group-title="Gen Entertainment",524 Formosa
 rtp://@239.1.2.198:9386
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",526 CTI Asia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_big.png" group-title="Gen Entertainment",526 CTI Asia
 rtp://@239.1.2.200:9168
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dunialain_big.png" group-title="Gen Entertainment",527 Dunia Lain
 rtp://@239.1.1.149:8868
@@ -248,7 +248,7 @@ rtp://@239.1.1.175:9024
 rtp://@239.1.1.125:8724
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" group-title="Movie",610 Thrill
 rtp://@239.1.1.83:8472
-#EXTINF:-1 tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" group-title="Movie",611 Celestial Movie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg3QQPW/Celestial.png" group-title="Movie",611 Celestial Movie
 rtp://@239.1.1.97:8556
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",613 TVN Movie
 rtp://@239.1.1.61:8340
@@ -418,7 +418,7 @@ rtp://@239.1.2.13:8052
 rtp://@239.1.1.14:8058
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="HD Channel",948 MTV Live HD
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",949 i Konser HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4SsT1Y/logo-ikonser-big.png" group-title="HD Channel",949 i Konser HD
 rtp://@239.1.2.221:9250
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HD Channel",950 FOXlife
 rtp://@239.1.1.209:9228
@@ -480,7 +480,7 @@ rtp://@239.1.2.216:9226
 rtp://@239.1.2.218:9238
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="HD Channel",982 CNN HD
 rtp://@239.1.1.246:9438
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",983 CNBC Indonesia HD Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/593h2j3/logo-cnbc-big.png" group-title="HD Channel",983 CNBC Indonesia HD Trial
 rtp://@239.1.2.94:9448
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="HD Channel",984 Channel News Asia HD
 rtp://@239.1.2.23:8112
