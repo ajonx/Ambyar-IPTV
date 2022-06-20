@@ -274,6 +274,8 @@ http://203.77.246.50:5000/udp/239.1.1.8:5000
 http://203.77.246.50:5000/udp/239.1.1.14:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Metro TV HD
 http://203.77.246.50:5000/udp/239.1.1.66:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JTV
 http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RTV
