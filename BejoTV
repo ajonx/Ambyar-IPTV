@@ -2,12 +2,27 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Billard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",TrueSport_HD1
-http://pakiptv.top:8880/8767/8767/54250
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",TrueSport_HD2
-http://pakiptv.top:8880/8767/8767/54251
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",TrueSport_HD3
-http://pakiptv.top:8880/8767/8767/54252
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports Premium 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101926
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports Premium 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101925
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS Premium 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101932
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS HD 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90164
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 2" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS HD 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90165
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 4" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 4
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90167
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 3" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 3
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90166
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 5" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 6" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 6
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 7
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_ARENA_HD
 http://pakiptv.top:8880/8767/8767/59879
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_Arena
@@ -159,12 +174,7 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Assp4
 http://203.154.243.89:21204/nakhon
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Rusia1
-http://spacetv.in/stream/DKQ6M3GWVG1/54.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Rusia1
-http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Rusia1
-http://spacetv.in/stream/DKQ6M3GWVG1/57.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JakTV
 http://203.77.246.50:5000/udp/239.1.1.8:5000
