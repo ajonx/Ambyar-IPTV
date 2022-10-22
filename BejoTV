@@ -2,33 +2,50 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Billard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports Premium 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101926
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports Premium 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101925
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS Premium 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101932
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS HD 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90164
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 2" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS HD 2
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90165
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 4" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 4
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90167
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 3" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 3
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90166
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 5" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 5
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 6" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 6
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="BEIN SPORTS",beIN SPORT HD 7
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_ARENA_HD
-http://pakiptv.top:8880/8767/8767/59879
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_Arena
-http://pakiptv.top:8880/8767/8767/92554
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_Arena_2
-http://pakiptv.top:8880/8767/8767/92555
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", Sky Sports Premier League HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97132
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BT Sport 1 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97126
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BT Sport 2 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97127
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BT Sport 3 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97128
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", ASTRO SUPERSPORTS 1
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/139276
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", ASTRO SUPERSPORTS 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/139277
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", ASTRO SUPERSPORTS 3
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/139278
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", ASTRO SUPERSPORTS 4
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/139279
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 1 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95953
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 2 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95954
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 3 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95955
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 4 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95956
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 5 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95957
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 6 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95958
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 7 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95959
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 8 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95960
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 9 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95961
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 10 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95962
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 11 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95963
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 12 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95964
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="SPORTS", BeIN Sport 13 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/95965
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ASSP1_HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ASSP2_HD
