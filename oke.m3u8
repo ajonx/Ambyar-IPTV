@@ -585,6 +585,20 @@ https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-2 tvg-id="ads2" group-title="05. OLAHRAGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",TRUE SPORTS 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",True Sports 2
+https://edge2.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",True Sports 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",TRUE SPORTS 7 VN
+https://edge2.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",TRUE SPORTS PREMIER 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="05. OLAHRAGA",True Sports Premier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png" group-title="06. HIBURAN",8TV
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71069
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png" group-title="06. HIBURAN",8TV
