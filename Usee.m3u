@@ -1,8 +1,6 @@
 #EXTM3U
 
 -------Local----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qgi01sc8roqtgjq/useeprime2.png" group-title="Local",  Usee Prime HD
-#rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rszohydtt7wqyi03jymw6/max-stream.png?rlkey=lvntio0e2y6ptzzbuqke8exli&raw=1" group-title="Local",  Max Stream HD
 rtp://@239.1.1.200:8164
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sq533vkerh69qs40u7qzx/allplay-ent.png?rlkey=5g8uhk0dgmf2tuq5flcqymyjj&raw=1" group-title="Local",  AllPlay Ent HD
