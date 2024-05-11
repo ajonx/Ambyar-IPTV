@@ -143,6 +143,14 @@ rtp://@239.1.2.43:8189
 rtp://@239.1.2.201:9174
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/billiards_tv_kr.png" group-title="Sport",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_1280x720.jpg" group-title="Sport",Astro SuperSport
+http://202.150.161.68/ASSP/index.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_1280x720.jpg" group-title="Sport",Astro SuperSport 2
+http://202.150.161.68/ASSP2/index.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_1280x720.jpg" group-title="Sport",Astro SuperSport 3
+http://202.150.161.68/ASSP3/index.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg" group-title="Sport",Astro SuperSport 4
+http://202.150.161.68/ASSP4/index.m3u8
 
 -------News---------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1nl7hb58bi4ybbw/seatoday.png" group-title="News",  SEA TODAY HD
