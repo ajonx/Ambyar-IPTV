@@ -7,12 +7,3 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115305.m3u8
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115433.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="spotv2_3"
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115686.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP SD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP SD
-http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/49741.ts
-
-#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP HD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP HD
-http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/82.ts
-
-#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP FHD
-http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/4498.ts
