@@ -20,7 +20,7 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 #EXTINF:-1 tvg-id="spotv2" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="IPV",SPOTV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
-https://spotv2.longdn-hyn89.workers.dev/?url=https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
+https://spotv2.longdn-hyn89.workers.dev/?url=https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotv2hd/default/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
