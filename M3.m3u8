@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 1_SpoTV 2 
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34663
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 1_MT3 
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34663
 ##http://lookontv.net:2095/live/eF8mnY1n/2zlNqCKNtX/115686.m3u8
 ##http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115305.m3u8
 ##https://blive99.github.io/m3u8/sporttv/truespotv.m3u8
 ##http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
 ##http://zozotv.xyz:8080/live/ZZA21216/zxe36880/555.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 2_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 2_MT3
 http://119.10.136.162:8080/live/mantv01/12345/95.ts
 ##http://lookontv.net:2095/play/live.php?mac=10:27:BE:2D:9B:CD&stream=115686&extension=m3u8
 ##http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776068.m3u8
 ##http://195.128.27.141:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1776069&extension=m3u8
 ##https://thinkkast.dpdns.org/tkk-ph/i7/dr_spotv2hd/spotv-2.m3u8
 ##https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 3_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 3_MT3
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115686&extension=m3u8
 ##https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/179.m3u8
 ##http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 4_SpoTV 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 4_MT3 
 http://v3tv.live:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776068&extension=m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 5_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 5_MT3
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34663
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 6_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 6_MT3
 http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776068&extension=m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 7_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 7_MT3
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=1548696&extension=m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 8_SpoTV 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 8_MT3 
 http://aflaxtv.xyz:8080/F33848/cbd9779b/298506
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 9_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 9_MT3
 http://xtv.ooo:8080/zahidgr/1122/388702
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 10_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 10_MT3
 http://macete.xyz:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115686&extension=m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 11_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 11_MT3
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 12_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 12_MT3
 http://31.43.191.125:8080/restream/restream/34663
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 13_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 13_MT3
 http://royaltv.world:25461/live/T6013/4432/14229.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 14_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 14_MT3
 http://deepgdn.com/live/GFURGDW/E52HPU8/957732.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 15_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 15_MT3
 http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 16_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 16_MT3
 http://pixtv.org/live/Test22/JmSSHFpNSX/957732.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png" group-title="SPORTS", 17_SpoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 17_MT3
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
