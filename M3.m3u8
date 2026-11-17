@@ -32,7 +32,8 @@ http://xtv.ooo:8080/zahidgr/1122/388702
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 10_MT3
 http://macete.xyz:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115686&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 11_MT3
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
+http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34663
+##http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 12_MT3
 http://31.43.191.125:8080/restream/restream/34663
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png" group-title="SPORTS", 13_MT3
