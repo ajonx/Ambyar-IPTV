@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-24 15:00:00",
+  "channels": {
+    "SPORT": [
+      {
+        "name": "MT-1",
+        "logo": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png",
+        "group": "SPORT",
+        "source": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/M3",
+        "url": "http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34663"
+      },
+      {
+        "name": "MT-2",
+        "logo": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png",
+        "group": "SPORT",
+        "source": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/M3",
+        "url": "http://119.10.136.162:8080/live/mantv01/12345/95.ts"
+      },
+      {
+        "name": "MT-3",
+        "logo": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/MotoGP.png",
+        "group": "SPORT",
+        "source": "https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/refs/heads/master/M3",
+        "url": "http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115686&extension=m3u8"
+      }
+    ]
+  }
+}
